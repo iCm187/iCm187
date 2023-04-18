@@ -15,5 +15,3 @@
 N'hésitez pas à me suivre pour rester à jour sur mes dernières activités et projets !
 
 👨‍💻🚀🌟
-
-https://github.com/CharleneDR#languages-and-tools
