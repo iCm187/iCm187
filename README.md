@@ -16,5 +16,3 @@ N'hésitez pas à me suivre pour rester à jour sur mes dernières activités et
 
 👨‍💻🚀🌟
 
-
-![logo](https://user-images.githubusercontent.com/95748040/232732874-85bd764e-4646-464d-b075-7a24fcaf0c5a.svg)
