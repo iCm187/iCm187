@@ -9,9 +9,12 @@
 💞️ Je suis passionné par la programmation et je suis toujours prêt à relever de nouveaux défis.
 
 📫 Pour me contacter, n'hésitez pas à m'envoyer un message privé sur LinkedIn.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ibrahim-mohamed-26b0b0253/)
+
 
 💻 Vous pouvez consulter certains de mes projets sur mon profil GitHub.
 
 N'hésitez pas à me suivre pour rester à jour sur mes dernières activités et projets !
 
 👨‍💻🚀🌟
+
