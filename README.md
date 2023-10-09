@@ -1,6 +1,6 @@
-<h1 align="center">Salut 👋, je suis MOHAMED Ibrahim</h1>
- <p align="center">Passionné par la tech, l'innovation et la programmation 🎯</p>
-        <p align="center">Compétences : Maquettage, Dev Front-End & Back-End, Bases de données, Tests, Dev Mobile, Cybersécurité, Gestion de Projet (SCRUM)</p>
+<h1 align="center">Salut 👋, je suis MOHAMED Ibrahim Concepteur Développeur d'Application </h1>
+ <p align="center">Passionné par la tech, l'innovation et la programmation </p>
+        <p align="center">Compétences : Maquettage, Dev Front-End & Back-End, Bases de données, Tests, Dev Mobile, Gestion de Projet (SCRUM)</p>
         <p align="center">Toujours prêt pour de nouveaux défis, la programmation, c'est ma passion !</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icm187&label=Profile%20views&color=0e75b6&style=flat" alt="icm187" /> </p>
