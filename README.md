@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis MOHAMED Ibrahim </h1>
-<h2 align="center">Futur Concepteur Développeur d'Applications</h2>
+<h2 align="center">Concepteur Développeur d'Applications</h2>
  <p align="center">Passionné par la tech, l'innovation et la programmation </p>
         <p align="center">Compétences : Maquettage, Dev Front-End & Back-End, Bases de données, Tests, Dev Mobile, Gestion de Projet (SCRUM)</p>
         <p align="center">Toujours prêt pour de nouveaux défis, la programmation, c'est ma passion !</p>
